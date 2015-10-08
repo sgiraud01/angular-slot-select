@@ -1,0 +1,19 @@
+{
+  "name": "angular-slot-select",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sgiraud01/angular-slot-select",
+  "authors": [
+    "giraud <giraud@statim.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-slotmachine": "~2.1.0"
+  }
+}
