@@ -1,6 +1,16 @@
 {
   "name": "angular-slot-select",
   "version": "0.0.0",
+  "main": [
+    "app/scripts/directives/slotselect.js",
+  ],
+  "keywords": [
+    "angular",
+    "select",
+    "input",
+    "slot",
+    "picker"
+  ],
   "homepage": "https://github.com/sgiraud01/angular-slot-select",
   "authors": [
     "giraud <giraud@statim.fr>"
